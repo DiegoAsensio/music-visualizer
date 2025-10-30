@@ -35,7 +35,3 @@ npm run dev
 \`\`\`bash
 npm run build
 \`\`\`
-
-## 👤 Autor
-
-Tu Nombre
